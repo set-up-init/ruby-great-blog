@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-e4J9bM6L.js";const o={};function r(c,n){return a(),e("div")}const s=t(o,[["render",r]]),f=JSON.parse('{"path":"/get-started/configuration.html","title":"","lang":"ko-KR","frontmatter":{},"headers":[],"git":{},"filePathRelative":"get-started/configuration.md","excerpt":""}');export{s as comp,f as data};
