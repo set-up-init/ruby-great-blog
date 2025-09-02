@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-BYmJPXik.js";const r={};function c(n,s){return a(),t("div")}const i=e(r,[["render",c]]),d=JSON.parse('{"path":"/get-started/pages/","title":"ruby 세팅하기","lang":"en-US","frontmatter":{"title":"ruby 세팅하기"},"headers":[],"git":{},"filePathRelative":"get-started/pages/index.md","excerpt":""}');export{i as comp,d as data};
